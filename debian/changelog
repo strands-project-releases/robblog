@@ -1,0 +1,14 @@
+ros-hydro-robblog (0.0.1-0precise) precise; urgency=high
+
+  * Added seconds to robblog title.
+  * Added seconds to robblog timed entry title.
+  * Adding nodejs to required dependencies
+  * Added useful function to create posts with time in the title.
+  * Working version, tested on a separate install.
+  * Markdown generated from entries from datacentre.
+  * Added basic site creation and serving
+  * Contributors: Bruno Lacerda, Chris Burbridge, Christian Dondrup, Marc Hanheide, Nick Hawes
+
+ -- Nick Hawes <n.a.hawes@cs.bham.ac.uk>  Mon, 10 Nov 2014 00:00:00 -0000
+
+
